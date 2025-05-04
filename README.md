@@ -11,21 +11,16 @@
   A web application for judging C lang programming problems.
   Its main goal is to provide a platform where students can submit their programming code and receive automated feedback on whether their solution is correct based on predefined test cases.
 
-  Key Features:
-  - Code Submission \
-    Students can submit their source code through the web interface.
-  - Automated Judging \
-    The server automatically compiles and runs the submitted code against various test cases.
-  - Detailed Results \
-    Users can view the results for each test case, including the program's output and the expected output.
-  - Output Comparison \
-    For incorrect answers, a diff viewer helps users easily see the differences between their output and the expected output.
-  - User Authentication \
-    A system is in place to manage user accounts and access.
-
 - [qiita](github.com/nometoko/qiita) \
   My Qiita articles.
   My account name for Qiita is also [nometoko](https://qiita.com/nometoko).
 
 - [MyPageAutoRegister](https://github/nometoko/MyPageAutoRegister) \
   Automated mypage registration for a specific website.
+
+- [binary-search-tree](https://github.com/nometoko/binary-search-tree) \
+  A cli command which is designed to process words from input sources using a binary search tree.
+
+- [CalculatorGUI](https://github/nometoko/CalculatorGUI) \
+  A simple calculator GUI application built using Java Swing.
+  It allows users to perform basic arithmetic operations such as addition, subtraction, multiplication, and division.
