@@ -11,6 +11,10 @@
   A web application for judging C lang programming problems.
   Its main goal is to provide a platform where students can submit their programming code and receive automated feedback on whether their solution is correct based on predefined test cases.
 
+- [rna_folding](https://github.com/nometoko/rna_folding) \
+  Codes for [Kaggle Competision](https://www.kaggle.com/competitions/stanford-rna-3d-folding).
+  Predicting the 3D structure of RNA sequences using deep learning techniques.
+
 - [qiita](https://github.com/nometoko/qiita) \
   My Qiita articles.
   My account name for Qiita is also [nometoko](https://qiita.com/nometoko).
